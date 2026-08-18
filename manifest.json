@@ -2,7 +2,7 @@
   "name": "Portfolio Tracker",
   "short_name": "Portfolio",
   "description": "IBKR & Webull portfolio P&L tracker",
-  "start_url": "./portfolio-tracker-light_v10.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7fb",
