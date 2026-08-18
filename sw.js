@@ -2,7 +2,7 @@
 // active service worker before it will offer "Install app"), and to let
 // the tracker keep working if you're offline. It does NOT touch your
 // data — that all lives in localStorage on the device.
-const CACHE = 'portfolio-tracker-v1';
+const CACHE = 'portfolio-tracker-v2';
 const ASSET = './index.html';
 
 self.addEventListener('install', event => {
